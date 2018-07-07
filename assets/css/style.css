@@ -1,0 +1,44 @@
+td {
+    padding: 0 2px 0 1rem;
+}
+#mePhoto {
+    max-width: 200px;
+}
+.port-photo {
+    max-width:425px;
+    margin: 5px;
+}
+
+.project-box {
+    border: 1px solid #aaa;
+    border-radius: .5rem;
+}
+.project-image-box {
+    padding: 0;
+}
+.project-image {
+    width: 100%;
+    border-top-left-radius: .5rem;
+    border-bottom-left-radius: .5rem;
+}
+.deploy-link {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+#my-contact-info {
+    text-decoration: underline;
+}
+.link-button-div {
+    display: inline-block;
+    border: solid 1px #ddd;
+    box-shadow: 2px 2px 4px #888;
+    padding: 2px;
+    margin-bottom: 1rem;
+}
+.link-button-div:hover {
+    box-shadow: 2px 2px 4px #ccc;
+}
+.link-image {
+    /* width: 1.5rem; */
+    height: 1.5rem;
+}
