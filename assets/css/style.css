@@ -1,8 +1,5 @@
-td {
-    padding: 0 2px 0 1rem;
-}
-#mePhoto {
-    max-width: 200px;
+#me-photo {
+    max-width: 180px;
 }
 .port-photo {
     max-width:425px;
