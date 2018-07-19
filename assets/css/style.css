@@ -5,18 +5,9 @@
     max-width:425px;
     margin: 5px;
 }
-
-.project-box {
-    border: 1px solid #aaa;
-    border-radius: .5rem;
-}
-.project-image-box {
-    padding: 0;
-}
-.project-image {
-    width: 100%;
-    border-top-left-radius: .5rem;
-    border-bottom-left-radius: .5rem;
+.project-div {
+    min-width: 180px;
+    max-width: 250px;
 }
 .deploy-link {
     padding-left: .5rem;
